@@ -1,5 +1,5 @@
 public with sharing class hello {
     public hello() {
-        system.debug('Hello World');
+        system.debug('Hello 123');
     }
 }
